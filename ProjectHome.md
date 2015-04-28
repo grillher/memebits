@@ -1,0 +1,1 @@
+In this application will allow one to pick a Codebits user and his/her favouritte meme video. The appplication will then generate a new meme video with the face of the codebits participant. The video will be made available at the website and can be directly imported to a given Meo TV Channel. Technologies: Javascript, Html5, Codebits API, MeoTV API
